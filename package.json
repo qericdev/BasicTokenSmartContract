@@ -1,0 +1,26 @@
+{
+  "name": "basictoken",
+  "version": "1.0.0",
+  "description": "Basic Token Smart Contract using Solidity and Open Zeppelin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qericdev/BasicTokenSmartContract.git"
+  },
+  "author": "Qeric Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qericdev/BasicTokenSmartContract/issues"
+  },
+  "homepage": "https://github.com/qericdev/BasicTokenSmartContract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
